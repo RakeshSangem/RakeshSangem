@@ -2,6 +2,7 @@
 - I am Front-end Developer from INDIA.
 - I love to build things🛠️
 - I believe that open source is for everyone💙
+- Mail at me [rockrakee76@gmail.com](mailto:rockrakee76@gmail.com)
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakeshsangem) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RakeshSangem8) 
